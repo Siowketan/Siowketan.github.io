@@ -75,7 +75,7 @@ body {
 <body>
 
 <h3>Welcome to the website. Please try to control the cursor by following the experiment's instruction</h3>
-
+&nbsp;&nbsp;
 <button class="btn yes">        Yes       </button>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <button class="btn no">        No        </button>
