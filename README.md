@@ -74,7 +74,7 @@ body {
 </head>
 <body>
 
-<h3>Welcome to the website. Please try to control the cursor by following the experiment's instruction</h3>
+<h3>Welcome to the website. Please try to control the cursor by following the experimenter's instruction</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <button class="btn yes">        Yes       </button>
 
