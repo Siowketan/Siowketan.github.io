@@ -1,39 +1,95 @@
-# Siowketan.github.io
 
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.button {
-  background-color: #04AA6D; /* Green */
-  border: none;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+body {
+  background-color: #D5DCE4;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: #D5DCE4;
+  color: black;
+  padding: 100px 100px;
+  font-size: 28px;
   cursor: pointer;
 }
 
-.button1 {border-radius: 2px;}
-.button2 {border-radius: 4px;}
-.button3 {border-radius: 8px;}
-.button4 {border-radius: 12px;}
-.button5 {border-radius: 50%;}
+/* Green */
+.yes {
+  border-color: #04AA6D;
+  color: green;
+}
+
+.yes:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Blue */
+.no {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+
+.no:hover {
+  background: #2196F3;
+  color: white;
+}
+
+/* Orange */
+.warning {
+  border-color: #ff9800;
+  color: orange;
+}
+
+.warning:hover {
+  background: #ff9800;
+  color: white;
+}
+
+/* Red */
+.danger {
+  border-color: #f44336;
+  color: red;
+}
+
+.danger:hover {
+  background: #f44336;
+  color: white;
+}
+
+/* Gray */
+.default {
+  border-color: #e7e7e7;
+  color: black;
+}
+
+.default:hover {
+  background: #e7e7e7;
+}
 </style>
 </head>
 <body>
 
-<h2>Rounded Buttons</h2>
-<p>Add rounded corners to a button with the border-radius property:</p>
+<h3>Welcome to the website. Please try to control the cursor by following the experiment's instruction</h3>
 
-<button class="button button1">Text: 2px</button>
-<button class="button button2">4px</button>
-<button class="button button3">8px</button>
-<button class="button button4">12px</button>
-<button class="button button5">50%</button>
+<button class="btn yes">Yes</button>
+
+<button class="btn no">No</button>
+
+<br/>
+<br/>
+
+<button class="btn warning">Maybe</button>
+
+<button class="btn danger">Could you repeat again?</button>
+
+<br/>
+<br/>
+
+<button class="btn default">Default</button>
 
 </body>
 </html>
