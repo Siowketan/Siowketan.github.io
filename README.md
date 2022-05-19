@@ -11,7 +11,7 @@ body {
   border: 2px solid black;
   background-color: #F8F9FA;
   color: black;
-  margin-left:100px;
+  margin-left:80px;
   padding: 80px 80px;
   font-size: 28px;
   cursor: pointer;
@@ -77,14 +77,17 @@ body {
 <h3>Welcome to the website. Please try to control the cursor by following the experiment's instruction</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <button class="btn yes">        Yes       </button>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <button class="btn no">        No        </button>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 <button class="btn warning">      Maybe       </button>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<button class="btn danger">Could you repeat? </button>
 
+<button class="btn danger">Could you repeat? </button>
+<br/>
 <br/>
 <br/>
 
@@ -92,3 +95,4 @@ body {
 
 </body>
 </html>
+
