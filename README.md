@@ -10,6 +10,7 @@ body {
 .btn {
   border: 2px solid black;
   background-color: #F8F9FA;
+  border-radius: 5px;
   color: black;
   margin-left:80px;
   padding: 80px 80px;
