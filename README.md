@@ -4,12 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  background-color: #D5DCE4;
+  background-color: #F8F9FA;
 }
 
 .btn {
   border: 2px solid black;
-  background-color: #D5DCE4;
+  background-color: #F8F9FA;
   color: black;
   padding: 100px 100px;
   font-size: 28px;
@@ -75,16 +75,16 @@ body {
 
 <h3>Welcome to the website. Please try to control the cursor by following the experiment's instruction</h3>
 
-<button class="btn yes">Yes</button>
+<button class="btn yes">        Yes       </button>
 
-<button class="btn no">No</button>
+<button class="btn no">        No        </button>
 
 <br/>
 <br/>
 
-<button class="btn warning">Maybe</button>
+<button class="btn warning">      Maybe       </button>
 
-<button class="btn danger">Could you repeat again?</button>
+<button class="btn danger">Could you repeat? </button>
 
 <br/>
 <br/>
