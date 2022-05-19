@@ -76,16 +76,16 @@ body {
 
 <h3>Welcome to the website. Please try to control the cursor by following the experimenter's instruction</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<button class="btn yes">        Yes       </button>
+<button class="btn yes">Yes</button>
 
-<button class="btn no">        No        </button>
+<button class="btn no">No</button>
 <br/>
 <br/>
 <br/>
 <br/>
-<button class="btn warning">      Maybe       </button>
+<button class="btn warning">Maybe</button>
 
-<button class="btn danger">Could you repeat? </button>
+<button class="btn danger">Could you repeat?</button>
 <br/>
 <br/>
 <br/>
