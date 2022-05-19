@@ -83,16 +83,14 @@ body {
 <br/>
 <br/>
 <br/>
-<br/>
 <button class="btn warning">      Maybe       </button>
 
 <button class="btn danger">Could you repeat? </button>
 <br/>
 <br/>
 <br/>
-
+<br/>
 <button class="btn default">Default</button>
 
 </body>
 </html>
-
